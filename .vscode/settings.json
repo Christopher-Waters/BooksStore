@@ -1,0 +1,9 @@
+{
+    "label": "password tests",
+    "command": "dotnet",
+    "type": "process",
+    "args": [
+        "test",
+        "${workspaceFolder}/Books.Tests/Books.Tests.csproj"
+    ]
+}

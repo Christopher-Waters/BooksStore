@@ -1,0 +1,90 @@
+[
+    {
+      "Id": 1,
+      "Title": "A Time to Kill",
+      "Description": "The author is a King of Jerusalem who relates and analyses events in his own life.",
+      "Price": 23.99,
+      "CoverImageUrl": "http://atimetokil.png",
+      "AuthorId": 1
+    },
+    {
+      "Id": 2,
+      "Title": "The House of Mirth",
+      "Description": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
+      "Price": 19.99,
+      "CoverImageUrl": "http:/mirth.png",
+      "AuthorId": 1
+    },
+    {
+      "Id": 3,
+      "Title": "EAST OF EDEN",
+      "Description": "Steinbeck apparently considered this 1952 novel to be his magnum opus, the one which all other novels before it had merely been practice for.",
+      "Price": 19.99,
+      "CoverImageUrl": "http://eden.png",
+      "AuthorId": 1
+    },
+    {
+      "Id": 4,
+      "Title": "THE SUN ALSO RISES",
+      "Description": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose. Hemingway’s modernist novel came out in 1926.",
+      "Price": 28.19,
+      "CoverImageUrl": "http://sun.png",
+      "AuthorId": 1
+    },
+    {
+      "Id": 5,
+      "Title": "VILE BODIES",
+      "Description": "Waugh took the title for his 1930 novel from Philippians, full name Epistle to the Philippians, which is part of the New Testament and generally attributed to Paul the Apostle.",
+      "Price": 32.95,
+      "CoverImageUrl": "http://bodies",
+      "AuthorId": 2
+    },
+    {
+      "Id": 6,
+      "Title": "A Scanner Darkly",
+      "Description": "One of Dick’s most famous novels (published in 1977), its title is taken from the First Epistle to the Corinthians",
+      "Price": 9.95,
+      "CoverImageUrl": "http://darkly",
+      "AuthorId": 2
+    },
+    {
+      "Id": 7,
+      "Title": "MOAB IS MY WASHPOT",
+      "Description": "The context is that people would often use washpots to clean their feet of sand after roaming the desert, and Moab, a kingdom of Jordan which was often warring against the Israelites, needed to be overcome.",
+      "Price": 29.98,
+      "CoverImageUrl": "http://washpot",
+      "AuthorId": 2
+    },
+    {
+      "Id": 8,
+      "Title": "NUMBER THE STARS",
+      "Description": "n line 147:4, the Psalms declares that He God telleth the number of the stars; he calleth them all by their names.",
+      "Price": 19.99,
+      "CoverImageUrl": "http://starts",
+      "AuthorId": 2
+    },
+    {
+      "Id": 9,
+      "Title": "BRAVE NEW WORLD",
+      "Description": "This is possibly the most famous book to take its title from a Shakespeare play – in this case, The Tempest",
+      "Price": 19.99,
+      "CoverImageUrl": "http://brave",
+      "AuthorId": 3
+    },
+    {
+      "Id": 10,
+      "Title": "PALE FIRE",
+      "Description": "Timon of Athens is one of Shakespeare’s less well-known and less-read plays, so it’s not often quoted.",
+      "Price": 49.99,
+      "CoverImageUrl": "http://palefire",
+      "AuthorId": 3
+    },
+    {
+      "Id": 11,
+      "Title": "COLD COMFORT FARM",
+      "Description": "Gibbons’s 1932 classic about a deeply unpleasant farm, a satire of typical Victorian rural fiction",
+      "Price": 14.95,
+      "CoverImageUrl": "http://cold",
+      "AuthorId": 3
+    }
+  ]

@@ -1,0 +1,12 @@
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/bin/Debug/net6.0/Core.deps.json
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/bin/Debug/net6.0/Core.dll
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/bin/Debug/net6.0/Core.pdb
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/Debug/net6.0/Core.dll
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/Debug/net6.0/refint/Core.dll
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/Debug/net6.0/Core.pdb
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/Debug/net6.0/ref/Core.dll

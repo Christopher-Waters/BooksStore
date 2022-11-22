@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/API/API.csproj": {}
+  },
+  "projects": {
+    "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/API/API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/API/API.csproj",
+        "packagesPath": "/Users/christopherwaters/.nuget/packages/",
+        "outputPath": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christopherwaters/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/Core.csproj",
+        "packagesPath": "/Users/christopherwaters/.nuget/packages/",
+        "outputPath": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christopherwaters/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/christopherwaters/.nuget/packages/",
+        "outputPath": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/christopherwaters/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/Core.csproj": {
+                "projectPath": "/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

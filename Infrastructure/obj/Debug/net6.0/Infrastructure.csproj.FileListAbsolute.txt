@@ -1,0 +1,15 @@
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/bin/Debug/net6.0/Core.dll
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/bin/Debug/net6.0/Core.pdb
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/refint/Infrastructure.dll
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/Users/christopherwaters/Projects/BookStore/cloud-services-team-hiring-test-vvxbeg/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
